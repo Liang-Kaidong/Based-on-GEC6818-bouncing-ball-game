@@ -44,7 +44,10 @@
 ## 3.环境配置
 > 环境搭建方法详情请预览->讲义->环境配置->[环境安装（WSL版本）.docx](https://github.com/user-attachments/files/20539316/WSL.docx)
 
-本项目还包含了其适配的交叉编译链和文件传输工具，如有需要亦可下载使用。
+```
+通过网盘分享的文件：WSL.zip
+链接: https://pan.baidu.com/s/1uVpFF8f198GFeehKkCPRtQ 提取码: rmag
+```
 资料请下载 WSL.zip
 
 ## 4.致谢
