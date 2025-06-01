@@ -1,0 +1,8 @@
+ cd /mnt/d/code
+ mkdir test
+mkdir /mnt/c/users/22642/desktop/test1
+touch /mnt/d/code/test/1.c
+cd /mnt/d/code/test
+ cp 1.c /mnt/c/users/22642/desktop/test1/2.c
+cat /mnt/c/users/22642/desktop/test1/2.c
+rm 1.c
