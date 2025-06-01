@@ -26,14 +26,12 @@
 | 讲义 | 包含项目所必备的知识和工具使用方法 |
 
 ## 1.项目验收
-> 一、游戏主界面
-![屏幕截图 2025-06-01 164647](https://github.com/user-attachments/assets/6d6de2cb-3eba-48f3-abde-d14946ad73eb)
+一、游戏主界面
 
-> 二、相册主界面
-![屏幕截图 2025-06-01 164656](https://github.com/user-attachments/assets/07b4b86b-f37a-4647-8aa9-a95a6dd4b6d3)
+二、相册主界面
 
-> 三、游戏界面
-![屏幕截图 2025-06-01 164727](https://github.com/user-attachments/assets/381a48c4-29fa-4ec1-89db-af54d54dbea4) ![屏幕截图 2025-06-01 164709](https://github.com/user-attachments/assets/073421cd-582d-425b-b8a9-7cb5107d434b)
+三、游戏界面
+
 
 ## 2.知识储备
 > 由于每一个作业对应的教材太过冗长，这里不便展示，如有需要请自行下载讲义的文件。
