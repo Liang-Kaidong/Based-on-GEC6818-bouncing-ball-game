@@ -27,14 +27,14 @@
 
 ## 1.项目验收
 > 一、游戏主界面
-![屏幕截图 2025-06-01 164647](https://github.com/user-attachments/assets/b54f2df1-cdc8-4a52-a007-1a9fb317dc3e)
+[游戏主界面](https://github.com/user-attachments/assets/b54f2df1-cdc8-4a52-a007-1a9fb317dc3e)
 
 > 二、相册主界面
-![屏幕截图 2025-06-01 164656](https://github.com/user-attachments/assets/025759af-b58d-4592-abcc-0dd38af82b38)
+[相册主界面](https://github.com/user-attachments/assets/025759af-b58d-4592-abcc-0dd38af82b38)
 
 > 三、游戏界面
-![屏幕截图 2025-06-01 164727](https://github.com/user-attachments/assets/c301eefa-8d03-4660-9bcd-7a9153e83fb1)
-![屏幕截图 2025-06-01 164709](https://github.com/user-attachments/assets/b199ce64-a531-4503-82fe-383555269aeb)
+[游戏界面1 2025-06-01 164727](https://github.com/user-attachments/assets/c301eefa-8d03-4660-9bcd-7a9153e83fb1)
+[游戏界面2 2025-06-01 164709](https://github.com/user-attachments/assets/b199ce64-a531-4503-82fe-383555269aeb)
 
 
 ## 2.知识储备
