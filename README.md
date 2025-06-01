@@ -33,8 +33,7 @@
 ![屏幕截图 2025-06-01 164656](https://github.com/user-attachments/assets/168baafc-2653-4718-9bf5-cc268a9bb5c9)
 
 > 三、游戏界面
-> ![屏幕截图 2025-06-01 164727](https://github.com/user-attachments/assets/6dc9cf2c-3c26-46c9-ad11-5f3802159c0b)
-> ![屏幕截图 2025-06-01 164709](https://github.com/user-attachments/assets/54673ace-4650-4c94-8ded-5888316e6563)
+![屏幕截图 2025-06-01 164727](https://github.com/user-attachments/assets/6dc9cf2c-3c26-46c9-ad11-5f3802159c0b) ![屏幕截图 2025-06-01 164709](https://github.com/user-attachments/assets/54673ace-4650-4c94-8ded-5888316e6563)
 
 ## 2.知识储备
 > 由于每一个作业对应的教材太过冗长，这里不便展示，如有需要请自行下载讲义的文件。
